@@ -31,3 +31,4 @@ C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\obj\Debug\net8.
 C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\obj\Debug\net8.0\DotNet8WebApi.pdb
 C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\obj\Debug\net8.0\DotNet8WebApi.genruntimeconfig.cache
 C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\obj\Debug\net8.0\ref\DotNet8WebApi.dll
+C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\obj\Debug\net8.0\DotNet8WebApi.sourcelink.json
