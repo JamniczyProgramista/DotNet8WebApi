@@ -32,3 +32,8 @@ C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\obj\Debug\net8.
 C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\obj\Debug\net8.0\DotNet8WebApi.genruntimeconfig.cache
 C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\obj\Debug\net8.0\ref\DotNet8WebApi.dll
 C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\obj\Debug\net8.0\DotNet8WebApi.sourcelink.json
+C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wernik Kluska\RiderProjects\DotNet8WebApi\DotNet8WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
