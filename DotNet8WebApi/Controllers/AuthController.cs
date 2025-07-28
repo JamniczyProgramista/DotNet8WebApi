@@ -4,6 +4,7 @@ using System.Text;
 using DotNet8WebApi.Entities;
 using DotNet8WebApi.Models;
 using DotNet8WebApi.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -35,5 +36,12 @@ public class AuthController(IAuthService authService) : ControllerBase
             return BadRequest("Invalid username or password");
         }
         return Ok(token);
+    }
+
+    [Authorize]
+    [HttpGet]
+    public IActionResult AuthenticatedOnlyEndpoint()
+    {
+        return Ok("You are authenticated");
     }
 }
