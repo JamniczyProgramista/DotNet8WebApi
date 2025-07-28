@@ -1,4 +1,5 @@
 using DotNet8WebApi.Data;
+using DotNet8WebApi.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
 builder.Services.AddDbContext<UserDbContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("UserDatabase")));
+
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 var app = builder.Build();
 app.MapControllers();
